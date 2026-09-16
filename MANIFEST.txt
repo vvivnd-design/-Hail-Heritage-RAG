@@ -1,0 +1,41 @@
+Hail Heritage RAG — Approved Recovery Master
+
+Files:
+- .env.example
+- .github/workflows/ci.yml
+- .gitignore
+- .pytest_cache/.gitignore
+- .pytest_cache/CACHEDIR.TAG
+- .pytest_cache/README.md
+- .pytest_cache/v/cache/nodeids
+- ARCHITECTURE.md
+- Dockerfile
+- FINAL_STATUS.md
+- PROJECT_DESCRIPTION.md
+- PROJECT_PRESENTATION.md
+- README.md
+- SUBMISSION_CHECKLIST.md
+- app/__init__.py
+- app/audit.py
+- app/config.py
+- app/documents.py
+- app/evaluate.py
+- app/llm.py
+- app/main.py
+- app/models.py
+- app/pipeline.py
+- app/quality.py
+- app/stream_demo.py
+- app/vector_store.py
+- data/processed/.gitkeep
+- data/quarantine/.gitkeep
+- data/raw/project_knowledge.md
+- logs/.gitkeep
+- requirements.txt
+- storage/chroma/.gitkeep
+- tests/test_quality.py
+
+Validation:
+- Python files compiled: 13
+- pytest result: [32m.[0m[32m.[0m[32m                                                                       [100%][0m
+[32m[32m[1m2 passed[0m[32m in 0.06s[0m[0m
